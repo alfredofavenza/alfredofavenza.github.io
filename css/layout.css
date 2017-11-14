@@ -108,7 +108,8 @@ footer{
 
 /* HEADER
 ================================================== */
-#mainHeader{background:#E9E9E9;}
+/*#mainHeader{background:#E9E9E9;}*/
+#mainHeader{background:#A6A6A6;}
 #mainHeader h1{padding-top: 10px;}
 
 /*** MEDIA QUERIES ***/
